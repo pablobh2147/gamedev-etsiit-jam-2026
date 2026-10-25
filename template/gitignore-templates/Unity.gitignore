@@ -1,0 +1,90 @@
+# ============================================================================
+# Unity .gitignore
+# ETSIIT Game Jam 2026
+# INSTRUCCIONES: Copia este archivo a la raíz del repositorio y renómbralo
+# exactamente a `.gitignore` (con el punto delante).
+# ============================================================================
+
+# Carpetas generadas por Unity (NUNCA subir a Git)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Metadatos de carpetas vacías o caché de Asset Store
+**/[Aa]ssets/AssetStoreTools*
+**/[Aa]ssets/AddressableAssetsData/*/*.bin*
+**/[Aa]ssets/StreamingAssets/aa.meta
+**/[Aa]ssets/StreamingAssets/aa/*
+
+# Plugins y paquetes autogenerados
+.collabignore
+PlasticSCM/
+.plastic/
+
+# Visual Studio / Rider / VS Code generados por Unity
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+ExportedObj/
+.consulo/
+
+# Gradle / Android
+.gradle/
+**/captures/
+local.properties
+
+# Reportes de fallos
+sysinfo.txt
+crash.dmp
+*.stackdump
+
+# Ejecutables y empaquetados (subidlos a GitHub Releases, NO como commits)
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Archivos fuente pesados de arte/audio (guardadlos en Drive, subid solo exportados)
+*.psd
+*.ai
+*.xcf
+*.blend1
+
+# Archivos basura del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*~

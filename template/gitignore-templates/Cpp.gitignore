@@ -1,0 +1,115 @@
+# ============================================================================
+# C / C++ (CMake, Make, Visual Studio, CLion, Raylib, SDL, SFML) .gitignore
+# ETSIIT Game Jam 2026
+# INSTRUCCIONES: Copia este archivo a la raíz del repositorio y renómbralo
+# exactamente a `.gitignore` (con el punto delante).
+# ============================================================================
+
+# Carpetas de compilación y salida (NUNCA subir a Git)
+[Bb]uild/
+[Bb]uilds/
+cmake-build-*/
+[Oo]ut/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Rr]elWithDebInfo/
+[Mm]inSizeRel/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Archivos generados por CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+install_manifest.txt
+Makefile
+*.cmake.user
+_deps/
+
+# Objetos compilados, cabeceras precompiladas y símbolos de depuración
+*.o
+*.obj
+*.lo
+*.slo
+*.ko
+*.gch
+*.pch
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.d
+*.tlog
+*.log
+
+# Librerías compiladas y ejecutables
+# (Si usáis librerías de terceros en una carpeta vendor/ o third_party/,
+# preferid CMake FetchContent, submódulos o documentadlo en el README)
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.so.*
+*.dylib
+*.a
+*.lib
+*.lai
+*.la
+
+# Gestores de paquetes C++ (vcpkg / Conan)
+vcpkg_installed/
+conanbuildinfo.*
+conaninfo.txt
+conan.lock
+graph_info.json
+
+# Visual Studio / VS Code / CLion / Xcode
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.aps
+*.ncb
+*.pgc
+*.pgd
+*.sbr
+*.scc
+*.swp
+*.swo
+*~
+
+# Empaquetados finales (subidlos a GitHub Releases, NO como commits)
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Archivos fuente pesados de arte/audio (guardadlos en Drive, subid solo exportados)
+*.psd
+*.ai
+*.xcf
+*.blend1
+
+# Archivos basura del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini

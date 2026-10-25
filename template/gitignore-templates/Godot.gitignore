@@ -1,0 +1,72 @@
+# ============================================================================
+# Godot (Godot 4.x y 3.x) .gitignore
+# ETSIIT Game Jam 2026
+# INSTRUCCIONES: Copia este archivo a la raíz del repositorio y renómbralo
+# exactamente a `.gitignore` (con el punto delante).
+# ============================================================================
+
+# Carpetas de caché e importación de Godot 4 y Godot 3 (NUNCA subir a Git)
+.godot/
+.import/
+
+# Configuración de exportación con posibles rutas locales o claves
+export.cfg
+export_presets.cfg
+
+# Traducciones compiladas e importadas automáticamente
+*.translation
+
+# Godot Mono / C#
+.mono/
+data_*/
+mono_crash.*.json
+*.csproj.user
+.vs/
+bin/
+obj/
+
+# Carpetas de exportación / compilación (subid las builds a GitHub Releases)
+[Bb]uild/
+[Bb]uilds/
+[Ee]xport/
+[Ee]xports/
+*.exe
+*.pck
+*.x86_64
+*.x86
+*.arm64
+*.apk
+*.aab
+*.app
+*.dmg
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Editores e IDEs externos
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales y logs de Godot
+*.tmp
+*.log
+
+# Archivos fuente pesados de arte/audio (guardadlos en Drive, subid solo exportados)
+*.psd
+*.ai
+*.xcf
+*.blend1
+
+# Archivos basura del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,138 @@
+# ============================================================================
+# .gitattributes - Configuración base para ETSIIT Game Jam 2026
+# Evita conflictos de saltos de línea (CRLF vs LF) entre Windows, Linux y macOS
+# y protege los archivos binarios de motores como Unity, Godot y C++.
+# ============================================================================
+
+# Normalizar saltos de línea automáticamente en archivos de texto
+* text=auto eol=lf
+
+# Scripts específicos de cada sistema operativo
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.sh text eol=lf
+
+# Código fuente común
+*.cs text diff=csharp
+*.cpp text diff=cpp
+*.cc text diff=cpp
+*.cxx text diff=cpp
+*.h text diff=cpp
+*.hpp text diff=cpp
+*.gd text
+*.shader text
+*.gdshader text
+*.hlsl text
+*.glsl text
+*.json text
+*.md text
+*.txt text
+*.xml text
+*.yaml text
+*.yml text
+
+# Archivos de escena / recursos basados en texto (Unity y Godot)
+# Nota: Evitad editar la misma escena dos personas a la vez.
+*.unity text -delta
+*.prefab text -delta
+*.asset text -delta
+*.mat text -delta
+*.anim text -delta
+*.controller text -delta
+*.meta text
+*.tscn text
+*.tres text
+*.godot text
+*.import text
+
+# Proyectos de Visual Studio / CMake
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.filters text eol=crlf
+CMakeLists.txt text eol=lf
+*.cmake text eol=lf
+
+# ============================================================================
+# Archivos binarios (Git no intentará fusionarlos ni alterar sus bytes)
+# ============================================================================
+
+# Imágenes y Texturas
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.webp binary
+*.ico binary
+*.exr binary
+*.hdr binary
+*.dds binary
+*.ktx binary
+*.astc binary
+*.svg text
+
+# Audio
+*.ogg binary
+*.wav binary
+*.mp3 binary
+*.flac binary
+*.aac binary
+*.m4a binary
+*.xm binary
+*.it binary
+*.mod binary
+*.s3m binary
+*.bank binary
+
+# Modelos 3D y Animaciones
+*.fbx binary
+*.glb binary
+*.blend binary
+*.blend1 binary
+*.dae text
+*.obj text
+*.3ds binary
+*.max binary
+*.mb binary
+*.ma text
+
+# Vídeo
+*.mp4 binary
+*.webm binary
+*.mov binary
+*.avi binary
+*.ogv binary
+
+# Fuentes tipográficas
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.fnt text
+
+# Binarios, librerías y empaquetados
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.a binary
+*.lib binary
+*.o binary
+*.pdb binary
+*.ilk binary
+*.pch binary
+*.gch binary
+*.pck binary
+*.apk binary
+*.aab binary
+*.unitypackage binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.rar binary
