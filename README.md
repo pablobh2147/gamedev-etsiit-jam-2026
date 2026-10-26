@@ -46,16 +46,16 @@ Participan **4 equipos de 4 integrantes**. A medida que empiece la Jam, se actua
 
 | Equipo | Nombre del Juego | Motor / Tecnología | Integrantes | Repositorio | Ejecutable (Release) |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| **Equipo 1** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@user1`, `@user2`, `@user3`, `@user4` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 2** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@user1`, `@user2`, `@user3`, `@user4` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 3** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@user1`, `@user2`, `@user3`, `@user4` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 4** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@user1`, `@user2`, `@user3`, `@user4` | [🔗 Repo](#) | [📦 Release](#) |
+| **Equipo 1** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@NuMeRo-999`, `@ArekkMirMun`, `@darson1777`, `@fonchimango` | [🔗 Repo](#) | [📦 Release](#) |
+| **Equipo 2** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@leodct`, `@Rotwo`, `@MaestroDiablo`, `@TheAlacor` | [🔗 Repo](#) | [📦 Release](#) |
+| **Equipo 3** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@lmaoguy123`, `@ZeKuruu`, `@alvaro-co`, `@alopejin` | [🔗 Repo](#) | [📦 Release](#) |
+| **Equipo 4** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@DPR-code`, `@Jsangal`, `@Poxtax18`, `@MjrSheba` | [🔗 Repo](#) | [📦 Release](#) |
 
 ---
 
 ## 📅 Calendario e Hitos de la Jam
 
-* **Miércoles 28 de octubre (19:30 h, Aula 1.7) — Inicio oficial y preparación de repositorios:** Arranca la Jam y configuramos los repositorios de los equipos en la sesión del GameDevClub.
+* **Miércoles 28 de octubre (19:30 h, Aula 1.5) — Inicio oficial y preparación de repositorios:** Arranca la Jam y configuramos los repositorios de los equipos en la sesión del GameDevClub.
 * **Todos los miércoles (a partir de las 19:30 h, Aula 1.7) — Sesiones de trabajo y tutorías:** Reuniones presenciales en el GameDevClub para avanzar con el equipo, resolver dudas técnicas y revisar el estado de Git con el profesorado.
 * **Domingo 20 de diciembre (hasta las 23:59 h, hora peninsular) — Fecha límite de entrega (`Release`):**
   * Último día para publicar la **Release final** en GitHub con el juego listo para **jugar en Linux** (vale tanto **versión Web** como **binario directo para Linux**).
