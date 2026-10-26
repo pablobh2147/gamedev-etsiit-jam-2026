@@ -1,7 +1,7 @@
 # 🎮 ETSIIT Game Jam 2026
 
 > **Temática oficial:** 🏆 **«Ganar Perdiendo»** 💀  
-> **Organiza:** GameDevClub — ETSIIT, Universidad de Granada  
+> **Organiza:** club GameDev ETSIIT — ETSIIT, Universidad de Granada  
 > **Fechas:** 28 de octubre de 2026 – 20 de diciembre de 2026 *(Presentaciones en enero de 2027)*  
 > **Modalidad y reuniones:** Híbrida (Presencial / Online) — Sesiones presenciales los **miércoles a las 19:30 h** en la ETSIIT (Aula 1.7)
 
@@ -55,8 +55,8 @@ Participan **4 equipos de 4 integrantes**. A medida que empiece la Jam, se actua
 
 ## 📅 Calendario e Hitos de la Jam
 
-* **Miércoles 28 de octubre (19:30 h, Aula 1.5) — Inicio oficial y preparación de repositorios:** Arranca la Jam y configuramos los repositorios de los equipos en la sesión del GameDevClub.
-* **Todos los miércoles (a partir de las 19:30 h, Aula 1.7) — Sesiones de trabajo y tutorías:** Reuniones presenciales en el GameDevClub para avanzar con el equipo, resolver dudas técnicas y revisar el estado de Git con el profesorado.
+* **Miércoles 28 de octubre (19:30 h, Aula 1.5) — Inicio oficial y preparación de repositorios:** Arranca la Jam y configuramos los repositorios de los equipos en la sesión del club GameDev ETSIIT.
+* **Todos los miércoles (a partir de las 19:30 h, Aula 1.7) — Sesiones de trabajo y tutorías:** Reuniones presenciales en el club GameDev ETSIIT para avanzar con el equipo, resolver dudas técnicas y revisar el estado de Git con el profesorado.
 * **Domingo 20 de diciembre (hasta las 23:59 h, hora peninsular) — Fecha límite de entrega (`Release`):**
   * Último día para publicar la **Release final** en GitHub con el juego listo para **jugar en Linux** (vale tanto **versión Web** como **binario directo para Linux**).
   * ⚠️ **Importante:** **Únicamente se evaluará lo que esté publicado en la Release dentro de plazo** (al crear una Release en GitHub se adjunta automáticamente una copia exacta del repositorio en ese instante; cualquier commit posterior fuera de esa Release no será tenido en cuenta).
