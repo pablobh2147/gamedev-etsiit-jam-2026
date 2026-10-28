@@ -46,10 +46,10 @@ Participan **4 equipos de 4 integrantes**. A medida que empiece la Jam, se actua
 
 | Equipo | Nombre del Juego | Motor / Tecnología | Integrantes | Repositorio | Ejecutable (Release) |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| **Equipo 1** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@NuMeRo-999`, `@ArekkMirMun`, `@darson1777`, `@fonchimango` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 2** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@leodct`, `@Rotwo`, `@MaestroDiablo`, `@TheAlacor` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 3** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@lmaoguy123`, `@ZeKuruu`, `@alvaro-co`, `@alopejin` | [🔗 Repo](#) | [📦 Release](#) |
-| **Equipo 4** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@DPR-code`, `@Jsangal`, `@Poxtax18`, `@MjrSheba` | [🔗 Repo](#) | [📦 Release](#) |
+| **Equipo 1** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@NuMeRo-999`, `@ArekkMirMun`, `@darson1777`, `@fonchimango` | [🔗 Repo](https://github.com/NuMeRo-999/gamejam-etsiit-2026) | [📦 Release](#) |
+| **Equipo 2** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@leodct`, `@Rotwo`, `@MaestroDiablo`, `@TheAlacor` | [🔗 Repo](https://github.com/Rotwo/gamejam-etsiit) | [📦 Release](#) |
+| **Equipo 3** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@lmaoguy123`, `@ZeKuruu`, `@alvaro-co`, `@alopejin` | [🔗 Repo](https://github.com/alopejin/Juego-grupo-3) | [📦 Release](#) |
+| **Equipo 4** | *[Por anunciar]* | `[Unity / Godot / C++]` | `@DPR-code`, `@Jsangal`, `@Poxtax18`, `@MjrSheba` | [🔗 Repo](https://github.com/DPR-code/game_jam_grupo4_etsiit) | [📦 Release](#) |
 
 ---
 
